@@ -13,9 +13,9 @@
   * [Email](#email)
   
  ## Installation
- Be sure to be running node.js.  Open live server at the server.js file and work with the user interface
+ No installation required.  Application can be used online with user interface.  To make it your own, clone the repository, be sure to be running node.js, then install the packages with "npm i".  Then run "node server.js" and either open index.html with live server or type localhost:3001 in your browser and use the app.  
  ## Usage
- To be used as a way to organize your notes and keep them for future reference.
+ To be used as a way to organize your notes by topic and keep them for future reference.
  ## Tests
  No tests were created for this app
  ## License
@@ -23,9 +23,10 @@
  ## Github Repository
  https://github.com/aliehs111/Express.js-Note-Taker
  ## Resources and Contributors
- Watching class videos from the express.js lessons and reviewing the code from the activities was the best resource to complete the project.  Additionally, the express.js website was very helpful too.  (http://www.expressjs.)
- ## Link
- xx
+ Watching class videos from the express.js lessons and reviewing the code from the activity files was the best resource to complete the project.  Additionally, the express.js website was very helpful too.  (http://www.expressjs.)
+ ## Link and Visuals
+ Heroku link: https://nameless-fjord-43879-585d2f401d9f.herokuapp.com/
+ 
  ## Email
  smcgov11.11@gmail.com
     
