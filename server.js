@@ -2,7 +2,7 @@ const express = require('express');//Importing express
 const path = require('path');//Importing path module so that app can work with paths to files
 const { v4: uuidv4 } = require('uuid');//Importing module to create unique ids for each user entry
 const fs = require('fs');//Importing module to read and write files
-const PORT = process.env.PORT || 3001;//Setting up port for heroku deployment or for local host  
+const port = process.env.PORT || 3001;//Setting up port for heroku deployment or for local host  
 
 const app = express();
 app.use(express.static('public'));//so that app can use files in the public folder
