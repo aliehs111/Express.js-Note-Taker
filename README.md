@@ -26,7 +26,12 @@
  Watching class videos from the express.js lessons and reviewing the code from the activity files was the best resource to complete the project.  Additionally, the express.js website was very helpful too.  (http://www.expressjs.)
  ## Link and Visuals
  Heroku link: https://nameless-fjord-43879-585d2f401d9f.herokuapp.com/
+ Walk through video: (https://drive.google.com/file/d/1ebm4QULeXOqn-yc2OEsuRQJk2w-oRbtB/view)
+ ![Alt text](/public/assets/images/Screenshot%202023-08-05%20at%205.33.27%20PM.png)
+ ![Alt text](/public/assets/images/Screenshot%202023-08-05%20at%206.09.49%20PM.png)
  
+
+
  ## Email
  smcgov11.11@gmail.com
     
